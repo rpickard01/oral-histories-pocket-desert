@@ -1,5 +1,7 @@
 # Introduction
 
+Published October 25th, 2022.
+
 I would like to acknowledge that this project was created and produced on the ancestral, unceded, and unsurrendered territory of the Syilx(1) Okanagan Nation of whose land I am a settler on. My research focuses on the diverse ecology and climate of the Okanagan, the relationships between the land and the Syilx Okanagan Peoples, and the devastating impacts (settler) colonialism continues to have on the land. I hope this project will aid in highlighting and making space for the knowledge and voices of the Syilx Okanagan Peoples who continue to maintain and sustain healthy relationships with the land as they have for millennia. By working within a Canadian academic institution, I recognise that I am inherently participating and complacent in a system built from a foundation of Eurocentrism, white supremacy, and colonialism dependent on the subjugation of Indigenous Peoples. My goal is to continue learning from Indigenous epistemologies and pedagogies while unlearning the colonial ideologies that uphold the settler-state of Canada and disrupting settler-colonial discourses by attempting to amplify and re-centre Indigenous voices in the spaces and conversations they have been forcibly and purposefully displaced and excluded from.
 
 ![DSC_0286 Medium](https://user-images.githubusercontent.com/107158915/190523188-5d7b1996-d372-4f61-a934-7502e800be62.jpeg)
