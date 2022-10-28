@@ -6,5 +6,4 @@ permalink: the-pocket-desert-audio-recording
 external_manifest_url: 
 
 ---
-<!-- Add an essay or interpretive material below this line,
-using HTML or markdown.  Do not modify this file above this line -->
+Please note: The audio recording does not appear when being viewed through the Safari browser.
